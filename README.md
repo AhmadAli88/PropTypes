@@ -1,8 +1,3 @@
-# React + Vite
+##Prop-types provides validators for basic data types like strings, numbers, booleans, and arrays
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ##PropTypes checks are not enforced at runtime for strict type validation; instead, they log warnings in the console (during development) if props don’t match the expected types.
